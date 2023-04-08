@@ -1,4 +1,4 @@
-#Operadores relacionales
+#Operadores relacionales. TODOS retornan valores booleanos
 # >  Mayor que
 # < Menor que
 # == Igual a
@@ -23,6 +23,6 @@ print("Un día el zorro quería cazar al conejo")
 print("Y como el conejo era tan lento entonces")
 
 print("¿EL zorro se lo comió? : ")
-print(velZorro > velConejo)
+print(velZorro > velConejo) #
 print (" estaturaConejo" < "estaturaZorro")
 print (estaturaZorro < estaturaConejo)
